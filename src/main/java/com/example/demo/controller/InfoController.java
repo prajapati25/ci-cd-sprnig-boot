@@ -8,7 +8,7 @@ public class InfoController {
 
     @GetMapping("/info")
     public String  getInfo (){
-        return "Hello From Himanshu New CI CD Project in develop branch";
+        return "Hello From Himanshu New CI CD Project in develop branch with feature";
     }
 
 }
